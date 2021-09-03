@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java U+2615
+- 🌱 I’m currently learning Java ☕
 - 📫 How to reach me: Telegram @dmk_t
