@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java ☕ and JS/Typescript
+- 🌱 I’m currently learning Java ☕
 - 📫 How to reach me: Telegram @dmk_t
