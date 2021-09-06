@@ -2,4 +2,5 @@
 
 
 - 🌱 I’m currently learning Java ☕
-- 📫 How to reach me: Telegram @dmk_t
+- 📫 How to reach me: 
+      <b>Telegram @dmk_t</b>
