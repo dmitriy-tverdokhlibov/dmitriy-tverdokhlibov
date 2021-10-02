@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning <b>Java and Spring stack</b> 
+- 🌱 I’m currently learning Java and Spring stack
 - 📫 How to reach me: 
       Telegram <b>@dmk_t</b>
