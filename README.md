@@ -1,6 +1,5 @@
 ### Hi there 👋
-- I am currently studying Java and Spring stack #007396
+- I'm currently studying Java and Spring stack 
 - 📫 How to reach me: 
       Telegram <b>@dmk_t</b>
       
-      ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
