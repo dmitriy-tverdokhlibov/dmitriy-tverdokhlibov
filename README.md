@@ -1,5 +1,5 @@
 ### Hi there 👋
-- <div>Icons made by <a href="https://www.flaticon.com/authors/riajulislam" title="riajulislam">riajulislam</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> 
+- I am currently studying Java and Spring stack #007396
 - 📫 How to reach me: 
       Telegram <b>@dmk_t</b>
       
