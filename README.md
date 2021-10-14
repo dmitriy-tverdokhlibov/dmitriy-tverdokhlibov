@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm DMK
 🌱 I’m currently learning  Java and Spring stack </br>
 📫 How to reach me: 
-      <img src="{https://t.me/dmk_t}" />
+      ![https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white]({https://t.me/dmk_t})
       
