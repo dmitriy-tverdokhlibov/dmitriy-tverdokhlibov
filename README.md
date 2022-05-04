@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Dima 🇺🇦 , Java dev. 💻 ☕️
-- 💻 I’m interested in programming 
+### Hi there 👋 I'm Dima 🇺🇦 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java projects 
 
