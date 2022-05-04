@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dimi 🇺🇦 ua
+### Hi there 👋 I'm Dima 🇺🇦 ua 🇨🇿 cz
 - I’m interested in programing
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java projects
